@@ -37,7 +37,7 @@ function runEnter() {
   console.log(inputValue);
   console.log(tableData);
 
-  // Filter the data on datetime
+  // Filter the data on the various filters
   var filteredData = tableData.filter(ufoforday => ufoforday.datetime === inputValue || ufoforday.city === inputValue || ufoforday.state === inputValue || ufoforday.country === inputValue || ufoforday.shape === inputValue);
                                                                     
   console.log(filteredData);
