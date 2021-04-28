@@ -13,5 +13,5 @@ The purpose of this project was to create a table dynamically about UFO sighting
 
 UFO-Level-1
 
-![Screenshot](/Screenshots/UFO-Sightings-Level-1.png "Sample of Website")
+![Screenshot](/Screenshots/UFO-Sightings-Level-1.jpg "Sample of Website")
 
