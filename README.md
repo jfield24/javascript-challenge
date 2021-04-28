@@ -15,3 +15,12 @@ UFO-Level-1
 
 ![Screenshot](https://raw.githubusercontent.com/jfield24/javascript-challenge/main/Screenshots/UFO-Sightings-Level-1.JPG)
 
+---
+
+## Instructions
+
+1. For the first level of the project, open `/UFO-level-1/index.html` and follow the instructions shown there.
+2. For the second level of the project, open `/UFO-level-2/index.html` and follow the instructions.
+
+
+
